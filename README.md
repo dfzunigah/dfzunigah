@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Felipe!
+
+<ul>
+  <li><b>📍 Location:</b> Bogotá 🇨🇴</li>
+  <li><b>💼 Job: </b>Co-founder & Ops Lead @ <a href="">Stock4</a></li>
+  <li><b>📣 Languages:</b> Spanish, English, French & German</li>
+</ul>
+
+## Networks
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dfzunigah)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dfzunigah/)
 
 <!--
 **dfzunigah/dfzunigah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
