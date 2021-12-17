@@ -2,7 +2,7 @@
 
 <ul>
   <li><b>📍 Location:</b> Bogotá 🇨🇴</li>
-  <li><b>💼 Job: </b>Co-founder & Ops Lead @ <a href="">Stock4</a></li>
+  <li><b>💼 Job: </b>Co-founder & CEO @ <a href="">ZOCO</a></li>
   <li><b>📣 Languages:</b> Spanish, English, French & German</li>
 </ul>
 
