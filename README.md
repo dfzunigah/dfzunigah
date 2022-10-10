@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Felipe!
 
 <ul>
-  <li><b>📍 Location:</b> St. Gallen 🇨🇭 or Bogotá 🇨🇴</li>
-  <li><b>💼 Job: </b>Co-founder & Lead @ <a href="https://turingbox.co/">TuringBox</a></li>
+  <li><b>📍 Location:</b> Bogotá or Medellín 🇨🇴</li>
+  <li><b>💼 Job: </b>Co-founder & Lead @ <a href="https://www.instagram.com/turingbox/">TuringBox</a></li>
   <li><b>📣 Languages:</b> Spanish, English, French & German</li>
 </ul>
 
