@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/dfzunigah/dfzunigah/main/Header.png" alt="Felipe Zuñiga, @TuringBox, @mind_unal">
+<a href="https://www.linkedin.com/in/dfzunigah/"><img src="https://raw.githubusercontent.com/dfzunigah/dfzunigah/main/Header.png" alt="Felipe Zuñiga, @TuringBox, @mind_unal"></a>
 
 ### Hi there <a href="https://www.linkedin.com/in/dfzunigah/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
