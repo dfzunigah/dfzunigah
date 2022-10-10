@@ -15,9 +15,26 @@ I'm a mechatronics engineering student from Colombia :colombia: and the Google D
 - I am the only student from a public university to ever become an [international START Fellow for HSG in Switzerland](https://ingenieria.bogota.unal.edu.co/es/noticias/item/504-start-fellowship-en-suiza.html).
 - I founded and led MIND student club to win the [2021 NASA Human Exploration Rover Challenge](https://www.nasa.gov/centers/marshall/news/releases/2021/nasa-announces-winners-of-2021-human-exploration-rover-challenge.html). This is the only time in the history of the competition that a rookie team has taken the top spot in their first try and the second time an international team gets the first place.
 - I've been twice a finalist in [TuApp Mobile App Contest](https://tuapp.org/).
-
+  
 </details>
 
+<details>
+  <summary><b>📰&nbsp;&nbsp;In&nbsp;the&nbsp;news</b></summary>
+  <br/>
+
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/dfzunigah/dfzunigah/main/Nail1.png"  alt="1" width = 340px height = 225px ></td>
+    <td><img src="https://raw.githubusercontent.com/dfzunigah/dfzunigah/main/Nail2.png" alt="2" width = 340px height = 225px></td>
+  </tr> 
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/dfzunigah/dfzunigah/main/Nail3.png"  alt="1" width = 340px height = 225px ></td>
+    <td><img src="https://raw.githubusercontent.com/dfzunigah/dfzunigah/main/Nail4.png" alt="2" width = 340px height = 225px></td>
+  </tr> 
+</table>
+  
+</details>
+  
 <details>
   <summary><b>💼&nbsp;&nbsp;Work&nbsp;Experience</b></summary>
   <br/>
@@ -86,6 +103,3 @@ Fellow for Misión TIC \
 <a href="https://www.linkedin.com/in/dfzunigah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dfzunigah" height="30" width="40" /></a>
 <a href="https://instagram.com/felipe.zunigah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felipe.zunigah" height="30" width="40" /></a>
 <a href="mailto:dfzunigah@unal.edu.co" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="4214976" height="30" width="40" /></a>
-
-| ------------- | ------------- |
-
