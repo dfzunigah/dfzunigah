@@ -24,12 +24,12 @@ I'm a mechatronics engineering student from Colombia :colombia: and the Google D
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/dfzunigah/dfzunigah/main/Nail1.png"  alt="1" width = 340px height = 225px ></td>
-    <td><img src="https://raw.githubusercontent.com/dfzunigah/dfzunigah/main/Nail2.png" alt="2" width = 340px height = 225px></td>
+    <td><a href="https://ingenieria.bogota.unal.edu.co/es/noticias/item/504-start-fellowship-en-suiza.html"><img src="https://raw.githubusercontent.com/dfzunigah/dfzunigah/main/Nail1.png"  alt="Felipe Zuñiga, START Fellowship en Suiza" width = 340px height = 225px></a></td>
+    <td><a href="https://ingenieria.bogota.unal.edu.co/es/dependencias/departamentos/departamento-de-ingenieria-de-sistemas-e-industrial/item/503-turingbox-incubadora-de-proyectos.html"><img src="https://raw.githubusercontent.com/dfzunigah/dfzunigah/main/Nail2.png" alt="TuringBox & Google Developer Club UNAL" width = 340px height = 225px></a></td>
   </tr> 
   <tr>
-    <td><img src="https://raw.githubusercontent.com/dfzunigah/dfzunigah/main/Nail3.png"  alt="1" width = 340px height = 225px ></td>
-    <td><img src="https://raw.githubusercontent.com/dfzunigah/dfzunigah/main/Nail4.png" alt="2" width = 340px height = 225px></td>
+    <td><a href="https://www.semana.com/nacion/articulo/cientificos-de-la-universidad-nacional-disenaron-un-vehiculo-espacial-y-ganaron-concurso-de-la-nasa/202134/"><img src="https://raw.githubusercontent.com/dfzunigah/dfzunigah/main/Nail3.png"  alt="Felipe Zuñiga, fundador MIND UNAL, ganadores NASA HERC 2021" width = 340px height = 225px></a></td>
+    <td><a href="http://ieu.unal.edu.co/en/medios/noticias-del-ieu/item/evendual-iniciativa-de-estudiantes-un-para-descongestionar-transmilenio-en-eventos-masivos"><img src="https://raw.githubusercontent.com/dfzunigah/dfzunigah/main/Nail4.png" alt="Felipe Zuñiga, equipo plantea solución al tráfico Bogotá" width = 340px height = 225px></a></td>
   </tr> 
 </table>
   
