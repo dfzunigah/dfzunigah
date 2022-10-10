@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/dfzunigah/dfzunigah/main/Header.png" alt="Felipe Zuñiga, @TuringBox, @mind_unal">
+
 ### Hi there <a href="https://www.linkedin.com/in/dfzunigah/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 I'm a mechatronics engineering student from Colombia :colombia: and the Google Developer Student Club Lead for Universidad Nacional de Colombia since 2021.
