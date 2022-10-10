@@ -24,7 +24,7 @@ I'm a mechatronics engineering student from Colombia :colombia: and the Google D
   
   In the overview below you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="TuringBox" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/kpn.jpeg?raw=true"/>](https://instagram.com/turingbox)
+[<img align="left" height="94px" width="94px" alt="TuringBox" src="https://raw.githubusercontent.com/dfzunigah/dfzunigah/main/TB.png"/>](https://instagram.com/turingbox)
 
 **Founder & CEO** \
 [**TuringBox**](https://instagram.com/turingbox) • Colombia \
@@ -86,3 +86,6 @@ Fellow for Misión TIC \
 <a href="https://www.linkedin.com/in/dfzunigah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dfzunigah" height="30" width="40" /></a>
 <a href="https://instagram.com/felipe.zunigah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felipe.zunigah" height="30" width="40" /></a>
 <a href="mailto:dfzunigah@unal.edu.co" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="4214976" height="30" width="40" /></a>
+
+| ------------- | ------------- |
+
