@@ -41,7 +41,7 @@ I'm a mechatronics engineering student from Colombia :colombia: and the only Goo
   
   In the overview below you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="TuringBox" src="https://raw.githubusercontent.com/dfzunigah/dfzunigah/main/TB.png"/>](https://instagram.com/turingbox)
+[<img align="left" height="94px" width="94px" alt="TuringBox" src="https://raw.githubusercontent.com/dfzunigah/dfzunigah/main/TBlack.png"/>](https://instagram.com/turingbox)
 
 **Founder & CEO** \
 [**TuringBox**](https://instagram.com/turingbox) • Colombia \
