@@ -2,7 +2,7 @@
 
 ### Hi there <a href="https://www.linkedin.com/in/dfzunigah/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-I'm a mechatronics engineering student from Colombia :colombia: and the Google Developer Student Club Lead for Universidad Nacional de Colombia since 2021.
+I'm a mechatronics engineering student from Colombia :colombia: and the only Google Developer Student Club Lead in Colombia since 2021.
 
 - ⚡ &nbsp;Leading [TuringBox](https://instagram.com/turingbox)
 - 🌱 Passionate about technology, education and entrepreneurship
@@ -14,7 +14,7 @@ I'm a mechatronics engineering student from Colombia :colombia: and the Google D
 
 - I am the only student from a public university to ever become an [international START Fellow for HSG in Switzerland](https://ingenieria.bogota.unal.edu.co/es/noticias/item/504-start-fellowship-en-suiza.html).
 - I founded and led MIND student club to win the [2021 NASA Human Exploration Rover Challenge](https://www.nasa.gov/centers/marshall/news/releases/2021/nasa-announces-winners-of-2021-human-exploration-rover-challenge.html). This is the only time in the history of the competition that a rookie team has taken the top spot in their first try and the second time an international team gets the first place.
-- I've been twice a finalist in [TuApp Mobile App Contest](https://tuapp.org/).
+- I've been a finalist in [TuApp Mobile App Contest](https://tuapp.org/) twice in Perú and in México.
   
 </details>
 
