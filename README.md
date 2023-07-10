@@ -7,7 +7,7 @@ I'm a mechatronics engineering student from Colombia :colombia: with a double ma
 - ⚡ &nbsp;Leading [TuringBox](https://instagram.com/turingbox)
 - 🌱 Passionate about technology, education and entrepreneurship
 - 📢 I fluently speak spanish, english and french
-- 💼 You can check out my work on my [portfolio](dfzunigah.github.io)
+- 💼 You can check out my work on my [portfolio](https://dfzunigah.github.io)
 
 <details>
   <summary><b>😎&nbsp;&nbsp;Honors&nbsp;&&nbsp;Awards</b></summary>
