@@ -2,7 +2,7 @@
 
 ### Hi there <a href="https://www.linkedin.com/in/dfzunigah/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-I'm a mechatronics engineering student from Colombia :colombia: and the only Google Developer Student Club Lead in Colombia since 2021.
+I'm a mechatronics engineering student from Colombia :colombia: with a double major in Artificial Intelligence and Entrepreneurship and the only Google Developer Student Club Lead in Colombia since 2021.
 
 - ⚡ &nbsp;Leading [TuringBox](https://instagram.com/turingbox)
 - 🌱 Passionate about technology, education and entrepreneurship
@@ -25,12 +25,16 @@ I'm a mechatronics engineering student from Colombia :colombia: and the only Goo
 
 <table>
   <tr>
-    <td><a href="https://ingenieria.bogota.unal.edu.co/es/noticias/item/504-start-fellowship-en-suiza.html"><img src="https://raw.githubusercontent.com/dfzunigah/dfzunigah/main/Nail1.png"  alt="Felipe Zuñiga, START Fellowship en Suiza" width = 340px height = 225px></a></td>
-    <td><a href="https://ingenieria.bogota.unal.edu.co/es/dependencias/departamentos/departamento-de-ingenieria-de-sistemas-e-industrial/item/503-turingbox-incubadora-de-proyectos.html"><img src="https://raw.githubusercontent.com/dfzunigah/dfzunigah/main/Nail2.png" alt="TuringBox & Google Developer Club UNAL" width = 340px height = 225px></a></td>
+    <td><a href="https://minas.medellin.unal.edu.co/noticias/5398-turingbox-el-nuevo-grupo-estudiantil-intersedes-que-llega-a-la-facultad-de-minas"><img src="https://raw.githubusercontent.com/dfzunigah/dfzunigah/main/Thumb5.png"  alt="TuringBox @ Medellín" width = 340px height = 225px></a></td>
+    <td><a href="https://www.youtube.com/watch?v=DhtGbbXowPE"><img src="https://raw.githubusercontent.com/dfzunigah/dfzunigah/main/Thumb6.png" alt="Video interview about TuringBox & Google Developer Club UNAL" width = 340px height = 225px></a></td>
   </tr> 
   <tr>
-    <td><a href="https://www.semana.com/nacion/articulo/cientificos-de-la-universidad-nacional-disenaron-un-vehiculo-espacial-y-ganaron-concurso-de-la-nasa/202134/"><img src="https://raw.githubusercontent.com/dfzunigah/dfzunigah/main/Nail3.png"  alt="Felipe Zuñiga, fundador MIND UNAL, ganadores NASA HERC 2021" width = 340px height = 225px></a></td>
-    <td><a href="http://ieu.unal.edu.co/en/medios/noticias-del-ieu/item/evendual-iniciativa-de-estudiantes-un-para-descongestionar-transmilenio-en-eventos-masivos"><img src="https://raw.githubusercontent.com/dfzunigah/dfzunigah/main/Nail4.png" alt="Felipe Zuñiga, equipo plantea solución al tráfico Bogotá" width = 340px height = 225px></a></td>
+    <td><a href="https://ingenieria.bogota.unal.edu.co/es/noticias/item/504-start-fellowship-en-suiza.html"><img src="https://raw.githubusercontent.com/dfzunigah/dfzunigah/main/Thumb3.png"  alt="Felipe Zuñiga, START Fellowship en Suiza" width = 340px height = 225px></a></td>
+    <td><a href="https://ingenieria.bogota.unal.edu.co/es/dependencias/departamentos/departamento-de-ingenieria-de-sistemas-e-industrial/item/503-turingbox-incubadora-de-proyectos.html"><img src="https://raw.githubusercontent.com/dfzunigah/dfzunigah/main/Thumb4.png" alt="TuringBox & Google Developer Club UNAL" width = 340px height = 225px></a></td>
+  </tr> 
+  <tr>
+    <td><a href="https://www.semana.com/nacion/articulo/cientificos-de-la-universidad-nacional-disenaron-un-vehiculo-espacial-y-ganaron-concurso-de-la-nasa/202134/"><img src="https://raw.githubusercontent.com/dfzunigah/dfzunigah/main/Thumb1.png"  alt="Felipe Zuñiga, fundador MIND UNAL, ganadores NASA HERC 2021" width = 340px height = 225px></a></td>
+    <td><a href="http://ieu.unal.edu.co/en/medios/noticias-del-ieu/item/evendual-iniciativa-de-estudiantes-un-para-descongestionar-transmilenio-en-eventos-masivos"><img src="https://raw.githubusercontent.com/dfzunigah/dfzunigah/main/Thumb2.png" alt="Felipe Zuñiga, equipo plantea solución al tráfico Bogotá" width = 340px height = 225px></a></td>
   </tr> 
 </table>
   
