@@ -70,7 +70,7 @@ Since August 2021
 
 **Mechatronics Engineering** \
 [**Universidad Nacional de Colombia**](https://unal.edu.co/) • Colombia \
-Minor in software development, major in entrepreneurship
+Double major in artificial intelligence and entrepreneurship
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="HSG" src="https://upload.wikimedia.org/wikipedia/de/7/77/Uni_St_Gallen_Logo.svg"/>](https://www.unisg.ch/en)
