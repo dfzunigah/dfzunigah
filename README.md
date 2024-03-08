@@ -54,7 +54,7 @@ I'm a mechatronics engineering student from Colombia :colombia: with a double ma
 Since August 2021 \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Google" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg"/>](https://instagram.com/turingbox)
+[<img align="left" height="94px" width="94px" alt="Google" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg"/>](https://instagram.com/turingbox)
 
 **Student Ambassador** \
 [**Google**](https://instagram.com/turingbox) • Bogotá, Colombia \
