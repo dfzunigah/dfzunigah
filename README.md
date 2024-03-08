@@ -2,18 +2,19 @@
 
 ### Hi there <a href="https://www.linkedin.com/in/dfzunigah/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-I'm a mechatronics engineering student from Colombia :colombia: with a double major in Artificial Intelligence and Entrepreneurship and the only Google Developer Student Club Lead in Colombia since 2021.
+I'm a mechatronics engineering student from Colombia :colombia: with a double major in Artificial Intelligence and Entrepreneurship. I love to do impossible things.
 
 - ⚡ &nbsp;Leading [TuringBox](https://instagram.com/turingbox)
 - 🌱 Passionate about technology, education and entrepreneurship
-- 📢 I fluently speak spanish, english and french
-- 💼 You can check out my work on my [portfolio](https://dfzunigah.github.io)
+- 📢 I fluently speak spanish, english and french. I'm learning german.
+- 💼 You can check out all of my work [here](https://dfzunigah.github.io)
 
 <details>
   <summary><b>😎&nbsp;&nbsp;Honors&nbsp;&&nbsp;Awards</b></summary>
   <br/>
 
-- I am the only student from a public university to ever become an [international START Fellow for HSG in Switzerland](https://ingenieria.bogota.unal.edu.co/es/noticias/item/504-start-fellowship-en-suiza.html).
+- Selected as an Ambassador for Google in Latam since 2021.
+- Selected as an [international START Fellow for HSG in Switzerland](https://ingenieria.bogota.unal.edu.co/es/noticias/item/504-start-fellowship-en-suiza.html).
 - I founded and led MIND student club to win the [2021 NASA Human Exploration Rover Challenge](https://www.nasa.gov/centers/marshall/news/releases/2021/nasa-announces-winners-of-2021-human-exploration-rover-challenge.html). This is the only time in the history of the competition that a rookie team has taken the top spot in their first try and the second time an international team gets the first place.
 - I've been a finalist in [TuApp Mobile App Contest](https://tuapp.org/) twice in Perú and in México.
   
@@ -53,15 +54,15 @@ I'm a mechatronics engineering student from Colombia :colombia: with a double ma
 Since August 2021 \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Google" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg"/>](https://gdsc.community.dev/universidad-nacional-de-colombia/)
+[<img align="left" height="94px" width="94px" alt="Google" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg"/>](https://instagram.com/turingbox)
 
 **Student Ambassador** \
-[**Google**](https://gdsc.community.dev/universidad-nacional-de-colombia/) • Bogotá, Colombia \
+[**Google**](https://instagram.com/turingbox) • Bogotá, Colombia \
 Since August 2021
 <br/>
 <br/>
 
-  Please find me on [LinkedIn](https://www.linkedin.com/in/dfzunigah/) for a more detailed description of my full work experience, education and certification.
+  Please find me on [LinkedIn](https://www.linkedin.com/in/dfzunigah/) for a more detailed description of my full work experience, education and certifications.
 
 </details>
 
@@ -106,6 +107,6 @@ Fellow for Misión TIC \
 
 <a href="https://github.com/dfzunigah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="dfzunigah" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dfzunigah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dfzunigah" height="30" width="40" /></a>
-<a href="https://instagram.com/felipe.zunigah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felipe.zunigah" height="30" width="40" /></a>
+<a href="https://instagram.com/dfzunigah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felipe.zunigah" height="30" width="40" /></a>
 <a href="mailto:dfzunigah@unal.edu.co" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="4214976" height="30" width="40" /></a>
 <a href="https://dfzunigah.github.io" target="blank"><img align="center" src="https://em-content.zobj.net/thumbs/240/microsoft/319/briefcase_1f4bc.png" alt="4214976" height="40" width="40" /></a>
